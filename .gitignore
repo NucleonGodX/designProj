@@ -1,0 +1,13 @@
+# dataset (CC BY 4.0, ~3 GB) and derived arrays: download from TCIA, see README
+data/
+
+# third-party binaries / helper scripts used only to fetch the data
+tools/
+
+# checkpoints (60 MB each) and run scratch
+runs/**/*.pt
+runs/*.err
+
+__pycache__/
+*.pyc
+

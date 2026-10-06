@@ -1,0 +1,19 @@
+{
+ "n_test": 30,
+ "threshold": 0.5,
+ "dice_mean": 0.6912456455276891,
+ "dice_median": 0.7606765580827366,
+ "dice_std": 0.2732983100306636,
+ "dice_pooled": 0.7786826133111788,
+ "voxel_accuracy": 0.9969060949135766,
+ "voxel_sensitivity": 0.7251288085145249,
+ "voxel_precision": 0.840777563898908,
+ "lesion_sensitivity": 0.6578947368421053,
+ "lesion_precision": 0.5725190839694656,
+ "fp_lesions_per_patient": 1.8666666666666667,
+ "patient_detection_rate": 0.9333333333333333,
+ "roc_auc": 0.968977393849056,
+ "avg_precision": 0.803834089498235,
+ "n_gt_lesions": 114,
+ "n_detected": 75
+}
